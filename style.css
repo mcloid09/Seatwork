@@ -72,8 +72,3 @@ footer{
     text-align: center;
     background-color: aqua;
 }
-.content:hover{
-    transform: scale(2);
-    transition: 2;
-}
-.container
